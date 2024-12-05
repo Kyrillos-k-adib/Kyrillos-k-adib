@@ -1,4 +1,4 @@
-👋 Hi there, I'm [Your Name]
+👋 Hi there, I'm Kyrillos Kamal
 Network Engineer | Cisco Certified Professional
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
@@ -7,13 +7,13 @@ I'm a passionate Network Engineer specializing in designing, implementing, and m
 🛠️ Skills:
 
 Routing & Switching: OSPF, BGP, EIGRP, VLANs, STP
-Network Security: Firewalls (Cisco ASA, Fortinet), VPNs, IDS/IPS
+Network Security: Firewalls (Cisco ASA,, Sophos Fortinet), VPNs, IDS/IPS
 Virtualization: VMware, Hyper-V
-Tools: Packet Tracer, GNS3, Wireshark
-🔭 Current Project: Enhancing network security with Cisco ASA configurations
+Tools: Packet Tracer, Wireshark
+🔭 Current Project: Enhancing network security with Sophos configurations
 🌱 Learning: Advanced network automation with Python and Ansible
 💬 Ask me about: Network troubleshooting, configurations, and security best practices
-📫 Reach me at: [your.email@example.com]
+📫 Reach me at: kyrillos.kamal@outlook.sa or kirllos1000@outlook.com
 ⚡ Fun fact: I enjoy simulating complex networks for practice and testing new setups!
 🌐 Connect with me:
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
