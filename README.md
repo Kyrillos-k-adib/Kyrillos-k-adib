@@ -18,12 +18,10 @@ I'm a passionate Network Engineer specializing in designing, implementing, and m
  or <a href="mailto:kirllos1000@outlook.com"> kirllos1000@outlook.com</a> </br></br>
 ⚡ Fun fact: I enjoy simulating complex networks for practice and testing new setups!</br>
 🌐 Connect with me:
-
+<div>
 <a href="https://github.com/Kyrillos-k-adib" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
-
 <a href="https://www.linkedin.com/in/kyrillos-kamal/" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
-
-</br>
+</div>
 ⚙️ Languages and Tools:</br>
 
 <p align="left"> 
