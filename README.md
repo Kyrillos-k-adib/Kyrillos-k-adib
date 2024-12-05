@@ -40,7 +40,7 @@ I'm a passionate Network Engineer specializing in designing, implementing, and m
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer">
     <img src="https://e7.pngegg.com/pngimages/534/305/png-clipart-windows-server-2012-logo-organization-brand-logo-windows-7-blue-angle.png" alt="linux" width="40" height="40"/>
   </a> 
 </p>
