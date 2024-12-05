@@ -13,7 +13,7 @@ I'm a passionate Network Engineer specializing in designing, implementing, and m
 - Tools: Packet Tracer, Wireshark</br>
 🔭 Current Project: Enhancing network security with Sophos configurations </br>
 🌱 Learning: Advanced network automation with Python and Ansible</br>
-💬 Ask me about: Network troubleshooting, configurations, and security best</br> practices
+💬 Ask me about: Network troubleshooting, configurations, and security best</br> practices</br>
 📫 Reach me at:  <a href="mailto:kyrillos.kamal@outlook.sa"> kyrillos.kamal@outlook.sa</a>
  or <a href="mailto:kirllos1000@outlook.com"> kirllos1000@outlook.com</a> </br></br>
 ⚡ Fun fact: I enjoy simulating complex networks for practice and testing new setups!</br>
